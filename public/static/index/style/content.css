@@ -1,0 +1,47 @@
+*{
+    margin:0;
+    padding:0;
+}
+#content{
+    width:1024px;
+    height:1000px;
+    margin:0 auto;
+    overflow:hidden;
+    clear:both;
+    position:relative;
+    margin-top:10px;
+    background:#f7f7f7;
+}
+#content_left{
+    width:135px;
+    height:1000px;
+    float:left;
+    background:#ffffff;
+}
+.content_right{
+    width:800px;
+    margin-left:180px;
+    position:relative;
+    background:#ffffff;
+}
+.content_right .content_right1 p{
+    font-size:18px;
+    color:#707070;
+    text-align:left;
+    margin-left:40px;
+    font-family:微软雅黑;
+}
+.content_right1 img{
+    width:260px;
+    height:35px;
+    margin-top:18px;
+    margin-left:30px;
+}
+.content_right .content_right1 h3{
+    font-size:23px;
+    color:#5fb362;
+    text-align:left;
+    margin-top:15px;
+    margin-left:40px;
+}
+

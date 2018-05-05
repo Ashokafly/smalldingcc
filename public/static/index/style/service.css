@@ -1,0 +1,34 @@
+*{
+    margin:0;
+    padding:0;
+}
+.content{
+    width:1024px;
+    height:180px;
+    margin:0 auto;
+    overflow:hidden;
+    clear:both;
+    position:relative;
+    margin-top:10px;
+    background:#f7f7f7;
+}
+.icon{
+    width:155px;
+    height:155px;
+    position:absolute;
+}
+.icon img{
+    margin-top:50px;
+    margin-left:50px;
+}
+.content_list{
+    width:850px;
+    height:150px;
+    float:right;
+}
+.content_list p{
+    text-align:left;
+}
+.content_list a{
+    text-decoration:none;
+}

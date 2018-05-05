@@ -1,0 +1,25 @@
+*{
+    margin:0;
+    padding:0;
+}
+.logo{
+    width:2000px;
+    height:80px;
+    margin-top:30px;
+}
+.logo img{
+    width:200px;
+    height:80px;
+    margin-top:20px;
+}
+.logo_nav ul li{
+    float:left;
+    margin:75px 2px;
+    color:#a0a0a0;
+    list-style-type:none;
+    margin-top:-27px;
+}
+.logo_nav ul li a{
+    color:#a0a0a0;
+    font-size:16px;
+}
